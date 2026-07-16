@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- 头部动画标题 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:667eea,100:ec4899&height=220&section=header&text=lw66666&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" />
@@ -110,4 +110,3 @@ AI 智能助手平台 — 基于 Spring Boot + Vue 3 + Spring AI
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:667eea,100:0d1117&height=120&section=footer" />
 </div>
-]]>
