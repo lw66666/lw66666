@@ -58,5 +58,34 @@
 ---
 
 <div align="center">
+
+### 🔥 Featured Project
+
+<table>
+<tr>
+<td>
+
+#### 🤖 [Love Agent](https://github.com/lw66666/love-agent)
+
+AI 智能助手平台 — 基于 Spring Boot + Vue 3 + Spring AI
+
+- 💕 AI 恋爱大师（RAG 知识库问答）
+- 🧠 超级智能体（ReAct 模式，10 种工具）
+- 📡 SSE 流式对话
+- 🐳 Docker 一键部署
+
+![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square)
+![Spring](https://img.shields.io/badge/Spring%20AI-1.0-green?style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:667eea,100:0d1117&height=120&section=footer" />
 </div>
