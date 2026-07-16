@@ -23,16 +23,20 @@
 
 **AI & Agent**
 
+![LangChain](https://img.shields.io/badge/LangChain-0.3-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflow-1C3C3C?style=for-the-badge)
 ![Spring AI](https://img.shields.io/badge/Spring%20AI-1.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F00?style=for-the-badge)
 ![ReAct](https://img.shields.io/badge/ReAct-Reasoning%20%26%20Acting-9C27B0?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-PgVector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/DashScope-通义千问-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![DashScope](https://img.shields.io/badge/DashScope-通义千问-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
-**Data & DevOps**
+**Data & Vector Stores**
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-E9599B?style=for-the-badge)
+![PgVector](https://img.shields.io/badge/PgVector-Vector%20Store-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
