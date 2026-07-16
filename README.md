@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:667eea,100:ec4899&height=220&section=header&text=lw66666&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" />
 
 <!-- 打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+intelligent+AI+agents;%F0%9F%92%A1+Spring+Boot+%2B+Vue+%2B+Spring+AI;%F0%9F%8C%90+Turning+ideas+into+reality+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,23 +41,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 📫 Connect With Me
-
-<a href="https://github.com/lw66666">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:3384792492@qq.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=lw66666&color=667eea&style=for-the-badge&label=Profile+Views)
-
-</div>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:667eea,100:0d1117&height=120&section=footer" />
