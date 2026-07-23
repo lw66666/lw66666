@@ -63,7 +63,7 @@
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 #### 🤖 [Love Agent](https://github.com/lw66666/love-agent)
 
@@ -79,9 +79,7 @@ AI 智能助手平台 — 基于 Spring Boot + Vue 3 + Spring AI
 ![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
 #### 🔍 [DevOptima](https://github.com/lw66666/DevOptima)
 
