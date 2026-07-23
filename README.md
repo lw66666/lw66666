@@ -59,7 +59,7 @@
 
 <div align="center">
 
-### 🔥 Featured Project
+### 🔥 Featured Projects
 
 <table>
 <tr>
@@ -77,6 +77,28 @@ AI 智能助手平台 — 基于 Spring Boot + Vue 3 + Spring AI
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square)
 ![Spring](https://img.shields.io/badge/Spring%20AI-1.0-green?style=flat-square)
 ![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🔍 [DevOptima](https://github.com/lw66666/DevOptima)
+
+AI驱动的智能代码审查与DevOps效能平台 — 基于 FastAPI + Vue 3 + LangChain
+
+- 🤖 多Agent协作审查（安全/规范/逻辑三维度）
+- 🔍 代码语义搜索（ChromaDB向量数据库）
+- 🧪 单元测试自动生成（pytest）
+- 📝 API文档自动生成
+- 🚀 CI/CD流水线监控（GitHub Actions）
+- 📋 编码规范库管理
+- 🔗 变更影响分析
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green?style=flat-square&logo=fastapi&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-0.1-purple?style=flat-square)
 
 </td>
 </tr>
